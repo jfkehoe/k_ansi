@@ -1,0 +1,4 @@
+This just some examples and basic functions that I keep rewriting on various platforms.  
+I constantly forget how to use ansi escape codes in python the control code is \033[
+
+This uses emoji's in some of the functions, I'm trying to pretend I'm not stuck in the 90's. 
